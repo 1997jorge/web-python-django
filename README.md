@@ -10,7 +10,7 @@
  
 ###### Esse projeto foi feito utilizando o Visual Studio Code.
 
-# O que é "Django?
+# O que é Django?
 
 ###### "Django é um framework de alto nível, escrito em Python que encoraja o desenvolvimento limpo de aplicações web."
  
