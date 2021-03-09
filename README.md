@@ -34,6 +34,6 @@
 
 ![](/Screenshot/apostila.png)
 
-Nessa apostila vai encontrar tudo o que precisa para executar ou criar esse projeto.
+Nessa apostila vai encontrar todas as informações que precisa para executar ou criar esse projeto.
 
 
