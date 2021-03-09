@@ -1,13 +1,17 @@
 # Desenvolvimento Web com Python e Django
  
 ###### Esse projeto é um sistema de gerenciamento de Funcionários. Ou seja, é uma aplicação onde será possível adicionar, listar, atualizar e deletar Funcionários.
- 
+
  ![](/Screenshot/print.png)
  
  ![](/Screenshot/print2.png)
  
  ![](/Screenshot/print3.png)
  
+###### Esse projeto foi feito utilizando o Visual Studio Code.
+
+# O que é "Django?
+
 ###### "Django é um framework de alto nível, escrito em Python que encoraja o desenvolvimento limpo de aplicações web."
  
 ###### "De acordo com sua documentação, os desenvolvedores o declaram como um framework MTV - isto é: Model-Template-View."
@@ -35,5 +39,7 @@
 ![](/Screenshot/apostila.png)
 
 Nessa apostila vai encontrar todas as informações que precisa para executar ou criar esse projeto.
+
+
 
 
