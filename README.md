@@ -12,6 +12,12 @@
  
  ###### "De acordo com sua documentação, os desenvolvedores o declaram como um framework MTV - isto é: Model-Template-View."
  
+ ###### O Django é dividido em três camadas: 
+
+* A Camada de Modelos.
+* A Camada de Views.
+* A Camada de Templates.
+ 
  ###### "Para os desenvolvedores, as Views do Django representam qual informação você vê, não como você vê. Há uma sutil diferença."
  
  ###### "No Django, uma View é uma forma de processar os dados de uma URL específica, pois ela descreve qual informação é apresentada, através do processamento descrito pelo desenvolvedor em seu código."
@@ -23,12 +29,6 @@
 ###### "Assim, onde o Controller se encaixa nessa arquitetura? No caso do Django, é o próprio framework que faz o trabalho pesado de processar e rotear uma requisição para a View apropriada de acordo com a configuração de URL descrita pelo desenvolvedor."
 
 ![](/Screenshot/django-architecture.png)
-
-###### O Django é dividido em três camadas: 
-
-* A Camada de Modelos.
-* A Camada de Views.
-* A Camada de Templates.
 
 ###### Foi utilizado uma apostila para fazer esse projeto, você encontra nesse site para baixar grátis: https://pythonacademy.com.br/ebooks/desenvolvimento-web-com-python-e-django/
 
