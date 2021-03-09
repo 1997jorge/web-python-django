@@ -24,4 +24,16 @@
 
 ![](/Screenshot/django-architecture.png)
 
+###### O Django é dividido em três camadas: 
+
+* A Camada de Modelos.
+* A Camada de Views.
+* A Camada de Templates.
+
+###### Foi utilizado uma apostila para fazer esse projeto, você encontra nesse site para baixar grátis: https://pythonacademy.com.br/ebooks/desenvolvimento-web-com-python-e-django/
+
+![](/Screenshot/printsite.png)
+
+Nessa apostila vai encontrar tudo o que precisa para executar ou criar esse projeto.
+
 
