@@ -1,6 +1,6 @@
 # Desenvolvimento Web com Python e Django
  
- ###### Esse projeto é um sistema de gerenciamento de Funcionários. Ou seja, é uma aplicação onde será possível adicionar, listar, atualizar e deletar Funcionários.
+###### Esse projeto é um sistema de gerenciamento de Funcionários. Ou seja, é uma aplicação onde será possível adicionar, listar, atualizar e deletar Funcionários.
  
  ![](/Screenshot/print.png)
  
@@ -8,19 +8,19 @@
  
  ![](/Screenshot/print3.png)
  
- ###### "Django é um framework de alto nível, escrito em Python que encoraja o desenvolvimento limpo de aplicações web."
+###### "Django é um framework de alto nível, escrito em Python que encoraja o desenvolvimento limpo de aplicações web."
  
- ###### "De acordo com sua documentação, os desenvolvedores o declaram como um framework MTV - isto é: Model-Template-View."
+###### "De acordo com sua documentação, os desenvolvedores o declaram como um framework MTV - isto é: Model-Template-View."
  
- ###### O Django é dividido em três camadas: 
+###### O Django é dividido em três camadas: 
 
-* A Camada de Modelos.
-* A Camada de Views.
-* A Camada de Templates.
+###### * A Camada de Modelos.
+###### * A Camada de Views.
+###### * A Camada de Templates.
  
- ###### "Para os desenvolvedores, as Views do Django representam qual informação você vê, não como você vê. Há uma sutil diferença."
+###### "Para os desenvolvedores, as Views do Django representam qual informação você vê, não como você vê. Há uma sutil diferença."
  
- ###### "No Django, uma View é uma forma de processar os dados de uma URL específica, pois ela descreve qual informação é apresentada, através do processamento descrito pelo desenvolvedor em seu código."
+###### "No Django, uma View é uma forma de processar os dados de uma URL específica, pois ela descreve qual informação é apresentada, através do processamento descrito pelo desenvolvedor em seu código."
 
 ###### "Além disso, é imprescindível separar conteúdo de apresentação – que é onde os templates residem."
 
